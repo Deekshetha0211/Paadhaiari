@@ -1,0 +1,6 @@
+io/paratoner/flutter_tesseract_ocr/FlutterTesseractOcrPlugin.java
+ io.paratoner.flutter_tesseract_ocr.FlutterTesseractOcrPlugin
+ io.paratoner.flutter_tesseract_ocr.MyRunnable
+ io.paratoner.flutter_tesseract_ocr.MyRunnable$1
+io/paratoner/flutter_tesseract_ocr/BuildConfig.java
+ io.paratoner.flutter_tesseract_ocr.BuildConfig
